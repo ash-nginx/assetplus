@@ -1,7 +1,7 @@
 # AssetPlus Assignment starter
 ## Cloning the Repo
 
-    $ git clone git@gitlab.com:asmark031/assetplus-assignment.git
+    $ git clone https://github.com/ash-nginx/assetplus.git
     $ cd assetplus-assignment
 
 ## Getting Started
